@@ -1,4 +1,4 @@
-# Framework de Autenticação Soberana Baseada em Blockchain
+# Blockchain como Mecanismo de Autenticação Soberana: um Estudo Comparativo sobre Segurança e Usabilidade em Sistemas Descentralizados.
 
 **Autor:** Douglas Viana Fernandes  
 **Instituição:** Pontifícia Universidade Católica de Minas Gerais – PUCMG  
